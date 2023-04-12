@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "242692802079",
+    "project_id": "drivelyio",
+    "storage_bucket": "drivelyio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242692802079:android:55173275801b4d36b6f72a",
+        "android_client_info": {
+          "package_name": "com.example.drively"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242692802079-s0igao3oa364g7eeg1ugs5ilup90qdbk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.drively",
+            "certificate_hash": "47821643d93c7dc6ac1e327956d14953167af3c9"
+          }
+        },
+        {
+          "client_id": "242692802079-0n8emvkkrfjtbph6m4hnc7h02nffufp9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcwPZGVh4nm4EdVyOJH8mN1L9Fg-esSw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "242692802079-0n8emvkkrfjtbph6m4hnc7h02nffufp9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
