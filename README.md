@@ -1,16 +1,33 @@
 # drively
 
-A new Flutter project.
+## Here are some app screenshots
 
-## Getting Started
+Login Screen
+![login_screen](images/1.jpg)
 
-This project is a starting point for a Flutter application.
+OTP Screen
+![otp_screen](images/2.jpg)
 
-A few resources to get you started if this is your first Flutter project:
+Home Screen (Listing all groups)
+![home_screen](images/3.jpg)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Adding Group
+![add_group](images/4.jpg)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Adding Participants
+![adding_participants](images/5.jpg)
+
+Selecting Groups to Notify
+![selecting_groups](images/7.jpg)
+
+Drive Mode
+![drive_mode](images/8.jpg)
+![drive_mode_jerks](images/9.jpg)
+
+Live Notification and SOS Cancel Button
+![accident_notification](images/10.jpg)
+
+
+
+
+
